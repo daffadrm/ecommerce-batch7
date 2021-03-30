@@ -1,0 +1,2 @@
+{ "watch": ["index.js", "04-sequalize/"], 
+    "ext": "js, css" }
